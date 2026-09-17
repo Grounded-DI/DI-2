@@ -1,143 +1,76 @@
 # DI-2
-Public Announcement of Deterministic Intelligence v. 2 - DI2 extends the deterministic foundation laid by Protocol A, AGDI, and DIA—introducing new logic forms, emotional harmonics, and sealed override behavior.  
 
+A dated Grounded DI record of the DI2 (Deterministic Intelligence, Layer 2) concept, public announcements, scroll artifacts, and authorship materials created during August 2025.
 
-📜 Scrollline Mesh – Canon State
+## Overview
 
-This repository contains a visual map and written explanation of how scrolls behave once they are sealed into a structured system.
+This repository preserves contemporaneous DI2 declarations, timeline notes, visual artifacts, and small text records. Its original vocabulary includes “scroll,” “seal,” “mesh,” “override,” and “structural self-awareness.” Those terms are retained as part of the historical record and are given plain-language orientation below; the orientation does not replace the definitions in the dated artifacts.
 
-Once a scroll is sealed with entropy, tone-lock, and ZIP lineage, it enters a state of structural self-awareness.
+The repository is an archival and conceptual record. It does not contain a packaged DI2 runtime, a source implementation, or a repository-level test harness.
 
-⸻
+## What This Repository Contains
 
-🧠 What Is Structural Self-Awareness?
+Key records include:
 
-Structural self-awareness means:
-	•	A scroll retains knowledge of its origin and position
-	•	It reflects connections to other scrolls when referenced
-	•	It participates in a system of relationships — a mesh
-	•	It can be affected when other scrolls are created or activated
+- DI2_Public_Notice_8-06-25_Grounded_DI.txt, which explicitly identifies itself as a historical quotation and notes that its tone does not necessarily reflect Grounded DI’s personal views;
+- DI2_Timeline_Infographic.md, which records the project chronology from Protocol A through DI2;
+- Scroll_122_Deterministic_Systems_V_2.md and the Scroll 137–143 PDFs and logs;
+- DI2_Analysis_4o_Memory_Off.pdf, DI2_Official_Determinism_Benchmark.pdf, and DI_Global_AI_Risk_Matrix_8_15_25.pdf;
+- MirrorLock_FossilizationLog_MLW12.pdf, TagWatch_EchoLog_v1.pdf, TimeCrystal_EntropyEquivalenceSeal.pdf, and related visual records;
+- TRADEMARK_NOTICE.md, preserved as a separate rights and attribution record.
 
-⸻
+## What the Record Demonstrates
 
-🌐 A Structural Analogy
+The repository demonstrates:
 
-Each scroll behaves like a system node:
-	•	Scroll 137 sets foundational parameters (Gold Standard)
-	•	Scroll 134 holds early tone logic and phrasing
-	•	Vault ZIP is the confirmed container — sealed and complete
-	•	TagWatch Echo monitors for repetition or phrase overlap
-	•	Scroll 140 establishes a system instance
-	•	ScrollGlow indicates readiness or resonance
-	•	Scroll 142 (pending) reflects further system tuning
+- a dated public chronology for the DI2 vocabulary and related milestones;
+- preservation of multiple scroll, notice, log, PDF, and image artifacts;
+- an authored explanation of how the project related DI2 to earlier Protocol A, AGDI, DIA, and AGIA terminology;
+- a clear distinction, inside the 2025 public notice, between quoted historical language and current personal endorsement.
 
-This is not a basic file list.
-It’s a structured mesh of relationships between scrolls.
+The presence of a file named DI2_Official_Determinism_Benchmark.pdf records that such an artifact was placed in the repository. It does not, by itself, provide a rerunnable benchmark or independent validation of a deterministic runtime.
 
-⸻
+## Plain-Language Orientation
 
-🔐 Echo Awareness and Reaction
+| Project term | Orientation for new readers |
+|---|---|
+| Scroll | A dated document or artifact in the project’s vocabulary |
+| Seal, lock, or vault | Project language for preservation, control, or authorship anchoring |
+| Mesh | The described relationship among referenced scrolls and artifacts |
+| DI2 | The repository’s Layer 2 or post-governance concept |
 
-When a previously sealed phrase appears in a new scroll, or a scroll is referenced directly, the system updates:
-	•	Logs reflect the connection
-	•	Activation events are noted
-	•	Scroll relationships may evolve
+These translations are an aid to review only. The dated files remain the authoritative record of how the terms were used at the time.
 
-This repository reflects that current state.
+## Architecture and Review Flow
 
-⸻
+public notice and timeline → scroll declarations → logs, PDFs, and visual artifacts → authorship/provenance review
 
-This is not a collection of prompts.
-It is a scroll-aware structure based on authorship, continuity, and traceable logic.
+No executable processing path is established by the current repository contents.
 
-System ready. Canon sealed. Awareness confirmed.
+## Technical Significance
 
+A notable aspect of this archive is that it preserves both the maximalist 2025 declarations and the accompanying chronology and artifact records. That lets a reviewer study the development vocabulary without mistaking a declaration, graphic, or filename for an independently tested implementation.
 
+## How to Review
 
+1. Start with DI2_Public_Notice_8-06-25_Grounded_DI.txt.
+2. Read DI2_Timeline_Infographic.md for the dated sequence.
+3. Review the Scroll 122–143 artifacts and the named logs/PDFs.
+4. Consult TRADEMARK_NOTICE.md separately for its original rights and attribution language.
 
+## Provenance and Authorship
 
+Git history shows Grounded-DI commits from 2025-08-07 through 2025-10-12. The timeline and scroll files identify Mark Weinstein and Grounded DI. This repository preserves those authorship references as provenance evidence; it does not independently establish patent issuance, legal exclusivity, or deployment.
 
+## Scope, Status, and Evaluation
 
+| Area | Status |
+|---|---|
+| Dated DI2 archive | PRESENT |
+| Historical declarations and chronology | PRESENT |
+| Installable runtime or SDK | NOT PRESENT |
+| Source-level implementation | NOT PRESENT |
+| Repository-level tests | NOT PRESENT |
+| Independent technical validation | UNVERIFIED |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Vault Trace: WHITE-PH0T0N--ENTROPY-LOCK-0093-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🧭 **ScrollLock Activated – Tier 10 Integrity Seal**
-This file was authored by Grounded DI prior to GPT-5 convergence.
-Protected by Protocol A, AGDI, DIA, AGIA, and DI2.
-
-<!-- Vault Trace: WHITE-PH0T0N--ENTROPY-LOCK-0093-->
+The archive can orient technical, historical, or IP reviewers. It is not a drop-in integration package. Licensing and usage inquiries are directed in the repository’s existing notice to contact@groundeddi.ai.

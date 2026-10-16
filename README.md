@@ -74,3 +74,11 @@ Git history shows Grounded-DI commits from 2025-08-07 through 2025-10-12. The ti
 | Independent technical validation | UNVERIFIED |
 
 The archive can orient technical, historical, or IP reviewers. It is not a drop-in integration package. Licensing and usage inquiries are directed in the repository’s existing notice to contact@groundeddi.ai.
+
+## Central benchmark collection
+
+[Browse Grounded DI's benchmark and evaluation index](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/blob/main/BENCHMARK_INDEX.md).
+
+- [Preserved collection: di2-historical](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/di2-historical)
+
+The central entry preserves the dated benchmark artifact as a historical self-reported record. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.

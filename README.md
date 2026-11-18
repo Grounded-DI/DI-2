@@ -4,9 +4,7 @@ A dated Grounded DI record of the DI2 (Deterministic Intelligence, Layer 2) conc
 
 ## Overview
 
-This repository preserves contemporaneous DI2 declarations, timeline notes, visual artifacts, and small text records. Its original vocabulary includes “scroll,” “seal,” “mesh,” “override,” and “structural self-awareness.” Those terms are retained as part of the historical record and are given plain-language orientation below; the orientation does not replace the definitions in the dated artifacts.
-
-The repository is an archival and conceptual record. It does not contain a packaged DI2 runtime, a source implementation, or a repository-level test harness.
+This archive brings together the August 2025 DI2 declarations, timeline, visual records, and authorship materials. Its project vocabulary includes “scroll,” “seal,” “mesh,” “override,” and “structural self-awareness.” The dated artifacts show how Grounded DI used those terms as the architecture developed.
 
 ## What This Repository Contains
 
@@ -28,7 +26,7 @@ The repository demonstrates:
 - an authored explanation of how the project related DI2 to earlier Protocol A, AGDI, DIA, and AGIA terminology;
 - a clear distinction, inside the 2025 public notice, between quoted historical language and current personal endorsement.
 
-The presence of a file named DI2_Official_Determinism_Benchmark.pdf records that such an artifact was placed in the repository. It does not, by itself, provide a rerunnable benchmark or independent validation of a deterministic runtime.
+The archived `DI2_Official_Determinism_Benchmark.pdf` records the project's historical benchmark claims. Consult the PDF for its method and scope.
 
 ## Plain-Language Orientation
 
@@ -39,17 +37,15 @@ The presence of a file named DI2_Official_Determinism_Benchmark.pdf records that
 | Mesh | The described relationship among referenced scrolls and artifacts |
 | DI2 | The repository’s Layer 2 or post-governance concept |
 
-These translations are an aid to review only. The dated files remain the authoritative record of how the terms were used at the time.
+The dated files document the original use of each term.
 
 ## Architecture and Review Flow
 
 public notice and timeline → scroll declarations → logs, PDFs, and visual artifacts → authorship/provenance review
 
-No executable processing path is established by the current repository contents.
-
 ## Technical Significance
 
-A notable aspect of this archive is that it preserves both the maximalist 2025 declarations and the accompanying chronology and artifact records. That lets a reviewer study the development vocabulary without mistaking a declaration, graphic, or filename for an independently tested implementation.
+The declarations, chronology, and visual records show how DI2 developed in public during 2025. The archive preserves the original language alongside its dates and authorship markers.
 
 ## How to Review
 
@@ -60,7 +56,7 @@ A notable aspect of this archive is that it preserves both the maximalist 2025 d
 
 ## Provenance and Authorship
 
-Git history shows Grounded-DI commits from 2025-08-07 through 2025-10-12. The timeline and scroll files identify Mark Weinstein and Grounded DI. This repository preserves those authorship references as provenance evidence; it does not independently establish patent issuance, legal exclusivity, or deployment.
+Git history records Grounded-DI commits from August 7 to October 12, 2025. The timeline and scroll files identify Mark Weinstein and Grounded DI as their authors.
 
 ## Scope, Status, and Evaluation
 
@@ -73,7 +69,7 @@ Git history shows Grounded-DI commits from 2025-08-07 through 2025-10-12. The ti
 | Repository-level tests | NOT PRESENT |
 | Independent technical validation | UNVERIFIED |
 
-The archive can orient technical, historical, or IP reviewers. It is not a drop-in integration package. Licensing and usage inquiries are directed in the repository’s existing notice to contact@groundeddi.ai.
+The archive supports historical, technical, and IP review. Licensing and usage inquiries may be directed to contact@groundeddi.ai.
 
 ## Central benchmark collection
 
@@ -81,4 +77,4 @@ The archive can orient technical, historical, or IP reviewers. It is not a drop-
 
 - [Preserved collection: di2-historical](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/di2-historical)
 
-The central entry preserves the dated benchmark artifact as a historical self-reported record. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
+The central entry indexes the dated benchmark artifact. This repository holds its original history and subsequent corrections.
